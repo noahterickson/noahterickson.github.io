@@ -1,4 +1,4 @@
-Sitemap: https://noahericksonpdx.com/sitemapindex.xml
+Sitemap: http://noahericksonpdx.com/sitemapindex.xml
 
 User-Agent: *
 Host: noahericksonpdx.com

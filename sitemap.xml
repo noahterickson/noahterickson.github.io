@@ -6,135 +6,75 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://noahericksonpdx.com/</loc>
-  <lastmod>2019-04-10T23:46:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/2019/</loc>
-  <lastmod>2019-04-08T22:21:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/2019/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/2019/04/</loc>
-  <lastmod>2019-04-08T22:21:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/archive.html</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/archive.html</loc>
-  <lastmod>2019-04-10T21:53:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/blog/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/blog/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/blog/give-a-blog-a-good-name/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/blog/books-i-have-read-recently/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/blog/hello-world/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/blog/give-a-blog-a-good-name/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/blog/recent-readings/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/blog/hello-world/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/categories/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/blog/recent-readings/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/categories/blogging/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/categories/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/categories/cat_blogging/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/categories/about-me/</loc>
-  <lastmod>2019-04-08T22:21:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/categories/cat_general-books/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/categories/blog-related/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/categories/general-books/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/categories/blogging/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/categories/house-of-leaves/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/categories/books/</loc>
-  <lastmod>2019-04-08T22:21:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/categories/pet-semetary/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/categories/cat_blog-related/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/categories/the-three-body-problem/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/categories/cat_blogging/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/galleries/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/categories/cat_fluff/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/galleries/Homestead/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
-  <loc>https://noahericksonpdx.com/categories/cat_general-books/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/categories/fluff/</loc>
-  <lastmod>2019-04-09T00:54:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/categories/general-books/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/categories/house-of-leaves/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/categories/pet-semetary/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/categories/the-three-body-problem/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/galleries/</loc>
-  <lastmod>2019-04-10T23:46:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/galleries/Blog/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/galleries/Homestead/</loc>
-  <lastmod>2019-04-10T23:46:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/galleries/test/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/listings/</loc>
-  <lastmod>2019-04-08T22:21:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/pages/</loc>
-  <lastmod>2019-04-08T22:21:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/pages/resume/</loc>
-  <lastmod>2019-04-08T22:21:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/posts/give-a-blog-a-good-name/</loc>
-  <lastmod>2019-04-08T23:06:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/posts/hello-world/</loc>
-  <lastmod>2019-04-08T22:21:00Z</lastmod>
- </url>
- <url>
-  <loc>https://noahericksonpdx.com/resume/</loc>
-  <lastmod>2019-04-10T23:25:00Z</lastmod>
+  <loc>http://noahericksonpdx.com/listings/</loc>
+  <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
 </urlset>
