@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>https://noahericksonpdx.com/categories/blog-related.xml</loc>
+  <lastmod>2019-04-09T15:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://noahericksonpdx.com/categories/cat_blog-related.xml</loc>
+  <lastmod>2019-04-09T15:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://noahericksonpdx.com/categories/cat_fluff.xml</loc>
+  <lastmod>2019-04-09T15:24:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://noahericksonpdx.com/categories/fluff.xml</loc>
+  <lastmod>2019-04-09T15:30:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://noahericksonpdx.com/galleries/rss.xml</loc>
+  <lastmod>2019-04-09T15:27:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://noahericksonpdx.com/rss.xml</loc>
+  <lastmod>2019-04-09T15:36:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://noahericksonpdx.com/sitemap.xml</loc>
+  <lastmod>2019-04-10T22:04:00Z</lastmod>
+ </sitemap>
+</sitemapindex>
