@@ -15,11 +15,15 @@
  </url>
  <url>
   <loc>http://noahericksonpdx.com/archive.html</loc>
-  <lastmod>2019-04-10T23:49:00Z</lastmod>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
  </url>
  <url>
   <loc>http://noahericksonpdx.com/blog/</loc>
-  <lastmod>2019-04-10T23:49:00Z</lastmod>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://noahericksonpdx.com/blog/books-on-the-shelf/</loc>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
  </url>
  <url>
   <loc>http://noahericksonpdx.com/blog/give-a-blog-a-good-name/</loc>
@@ -30,12 +34,28 @@
   <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
+  <loc>http://noahericksonpdx.com/blog/index-1.html</loc>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://noahericksonpdx.com/blog/preventative-maintenance/</loc>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://noahericksonpdx.com/blog/recent-readings/</loc>
   <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
+  <loc>http://noahericksonpdx.com/blog/zen-and-the-art-of-motorcycle-maintenance-chapter-4-9/</loc>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://noahericksonpdx.com/blog/zen-and-the-art-of-motorcycle-maintenance-chapters-1-3/</loc>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://noahericksonpdx.com/categories/</loc>
-  <lastmod>2019-04-10T23:49:00Z</lastmod>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
  </url>
  <url>
   <loc>http://noahericksonpdx.com/categories/blogging/</loc>
@@ -46,8 +66,16 @@
   <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
+  <loc>http://noahericksonpdx.com/categories/cat_book-beginnings/</loc>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://noahericksonpdx.com/categories/cat_general-books/</loc>
   <lastmod>2019-04-10T23:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://noahericksonpdx.com/categories/cat_zen-and-the-art-of-motorcycle-maintenace/</loc>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
  </url>
  <url>
   <loc>http://noahericksonpdx.com/categories/general-books/</loc>
@@ -64,6 +92,10 @@
  <url>
   <loc>http://noahericksonpdx.com/categories/the-three-body-problem/</loc>
   <lastmod>2019-04-10T23:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://noahericksonpdx.com/categories/zen-and-the-art-of-motorcycle-maintenance/</loc>
+  <lastmod>2019-04-24T00:09:00Z</lastmod>
  </url>
  <url>
   <loc>http://noahericksonpdx.com/galleries/</loc>
