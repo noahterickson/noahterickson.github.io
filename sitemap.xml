@@ -7,19 +7,23 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://noahericksonpdx.com/</loc>
-  <lastmod>2019-04-10T23:49:00Z</lastmod>
+  <lastmod>2020-02-01T00:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://noahericksonpdx.com/2019/</loc>
   <lastmod>2019-04-10T23:49:00Z</lastmod>
  </url>
  <url>
+  <loc>http://noahericksonpdx.com/2020/</loc>
+  <lastmod>2020-02-01T00:53:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://noahericksonpdx.com/archive.html</loc>
-  <lastmod>2019-11-06T02:10:00Z</lastmod>
+  <lastmod>2020-02-01T00:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://noahericksonpdx.com/blog/</loc>
-  <lastmod>2019-11-06T02:10:00Z</lastmod>
+  <lastmod>2020-02-01T00:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://noahericksonpdx.com/blog/books-on-the-shelf/</loc>
@@ -39,7 +43,11 @@
  </url>
  <url>
   <loc>http://noahericksonpdx.com/blog/index-1.html</loc>
-  <lastmod>2019-11-06T02:10:00Z</lastmod>
+  <lastmod>2020-02-01T00:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://noahericksonpdx.com/blog/index-2.html</loc>
+  <lastmod>2020-02-01T00:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://noahericksonpdx.com/blog/malleus/</loc>
@@ -60,6 +68,10 @@
  <url>
   <loc>http://noahericksonpdx.com/blog/the-martian/</loc>
   <lastmod>2019-11-06T02:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://noahericksonpdx.com/blog/the-outsider/</loc>
+  <lastmod>2020-02-01T00:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://noahericksonpdx.com/blog/zen-and-the-art-of-motorcycle-maintenance-chapter-4-9/</loc>
